@@ -1,0 +1,400 @@
+Characterization of a lipopolysaccharide - targeted monoclonal antibody and its variable fragments as candidates for prophylaxis against the obligate intracellular bacterial pathogen Coxiella burnetii .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I O
+
+Our previous study demonstrated that treatment of Coxiella burnetii with the phase I lipopolysaccharide ( PI - LPS ) - targeted monoclonal antibody ( MAb ) 1E4 significantly inhibited C . burnetii infection in mice , suggesting that 1E4 is a protective MAb .
+Predicted: O O O O O O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O
+Correct:  O O O O O O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O Habitat_B O O O O O O O O O
+
+To determine whether passive transfer of antibodies ( Abs ) can provide protection against C . burnetii natural infection , we examined if passive transfer of 1E4 would protect SCID mice against C . burnetii aerosol infection .
+Predicted: O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I Bacteria_I O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I Bacteria_I O O
+Correct:  O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O Habitat_B Habitat_I O Bacteria_B Bacteria_I Bacteria_I Habitat_B O O
+
+The results indicated that 1E4 conferred significant protection against aerosolized C . burnetii , suggesting that 1E4 may be useful for preventing C . burnetii natural infection .
+Predicted: O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I Bacteria_I O O
+Correct:  O O O O O O O O O Habitat_B Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O
+
+To further understand the mechanisms of 1E4 - mediated protection and to test the possibility of using humanized 1E4 to prevent C . burnetii infection , we examined whether the Fab fragment of 1E4 ( Fab1E4 ) , a recombinant murine single - chain variable fragment ( muscFv1E4 ) , and a humanized single - chain variable fragment ( huscFv1E4 ) retained the ability of 1E4 to inhibit C . burnetii infection .
+Predicted: O O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O Habitat_B O O O O O O O O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O
+
+The results indicated that Fab1E4 , muscFv1E4 , and huscFv1E4 were able to inhibit C . burnetii infection in mice but that their ability to inhibit C . burnetii infection was lower than that of 1E4 .
+Predicted: O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O
+Correct:  O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O Habitat_B O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O
+
+In addition , treatment of C . burnetii with Fab1E4 , muscFv1E4 , or huscFv1E4 can block C . burnetii infection of macrophages .
+Predicted: O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O
+Correct:  O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O Habitat_B O
+
+Interestingly , treatment of C . burnetii with huscFv1E4 can significantly reduce C . burnetii infectivity in human macrophages .
+Predicted: O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O Bacteria_B Bacteria_I Bacteria_I O O Habitat_B O O
+Correct:  O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O Bacteria_B Bacteria_I Bacteria_I O O Habitat_B Habitat_I O
+
+This report provides the first evidence to demonstrate that the humanized variable fragments of an LPS - specific MAb can neutralize C . burnetii infection and appears to be a promising step toward the potential use of a humanized MAb as emergency prophylaxis against C . burnetii exposure .
+Predicted: O O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O
+
+Cloning , expression , purification , crystallization and X - ray crystallographic analysis of Rv3168 from Mycobacterium tuberculosis H37Rv .
+Predicted: O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I O O
+Correct:  O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O
+
+Tuberculosis is a widespread and deadly infectious disease , with one third of the human population already being infected .
+Predicted: O O O O O O O O O O O O O O Habitat_B O O O O O
+Correct:  O O O O O O O O O O O O O O Habitat_B Habitat_I O O O O
+
+Aminoglycoside antibiotics have become less effective in recent years owing to antibiotic resistance , which arises primarily through enzymatic modification of the antibiotics .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O
+
+The gene product Rv3168 , a putative aminoglycoside phosphotransferase ( APH ) , from Mycobacterium tuberculosis was crystallized using the sitting - drop vapour - diffusion method in the presence of 0 . 2 M calcium acetate , 0 . 1 M Tris - HCl pH 7 . 0 and 20 % PEG 3000 at 295 K . X - ray diffraction data were collected to a maximum resolution of 1 . 67 Å on a synchrotron beamline .
+Predicted: O O O O O O O O O O O O O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+The crystal belonged to space group P2 ( 1 ) 2 ( 1 ) 2 ( 1 ) , with unit - cell parameters a = 56 . 74 , b = 62 . 37 , c = 103 . 61 Å .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+With one molecule per asymmetric unit , the crystal volume per unit protein weight ( V ( M ) ) is 2 . 91 Å ( 3 ) Da ( - 1 ) .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+The structure was solved by the single - wavelength anomalous dispersion method and refinement of the selenomethionine structure is in progress .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O
+
+A general strategy for the bacterial expression of amyloidogenic peptides using BCL - XL - 1 / 2 fusions .
+Predicted: O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O
+
+Biophysical studies on amyloidogenic and aggregation - prone peptides often require large quantities of material .
+Predicted: O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O
+
+However , solid - phase synthesis , handling , and purification of peptides often present challenges on these scales .
+Predicted: O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O
+
+Recombinant expression is an attractive alternative because of its low cost , the ability to isotopically label the peptides , and access to sequences exceeding approximately 50 residues .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+However , expression systems that seek to solubilize amyloidogenic peptides suffer from low yields , difficult optimizations , and isolation challenges .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O
+
+We present a general strategy for expressing and isolating amyloidogenic peptides in Escherichia coli by fusion to a polypeptide that drives the expression of attached peptides into bacterial inclusion bodies .
+Predicted: O O O O O O O O O O O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O O O
+
+This scheme minimizes toxicity during bacterial growth and enables the processing and handling of the peptides in denaturing solutions .
+Predicted: O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O
+
+Immobilized metal affinity chromatography , reverse phase HPLC , and cyanogen bromide cleavage are used to isolate the peptide , followed by further reverse phase HPLC , which yields milligram quantities of the purified peptide .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+We demonstrate that driving the peptides into inclusion bodies using fusion to BCL - XL - 1 / 2 is a general strategy for their expression and isolation , as exemplified by the production of 11 peptides species .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+Lymphogranuloma venereum presenting as perianal ulceration : an emerging clinical presentation ?
+Predicted: O O O O O O O O O O O O
+Correct:  O O O O Habitat_B O O O O O O O
+
+An outbreak of lymphogranuloma venereum ( LGV ) infection has been recognised in the UK since 2004 , predominantly affecting HIV - positive men who have sex with men ( MSM ) .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I O Habitat_B O O
+
+Patients typically present with proctitis symptoms .
+Predicted: Habitat_B O O O O O O
+Correct:  Habitat_B O O O O O O
+
+The prevalence of rectal LGV in MSM attending sexually transmitted infection clinics in London is estimated at 1 % .
+Predicted: O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O Habitat_B O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I O O O O O O O O
+
+Health Protection Agency surveillance has shown a decrease in anorectal manifestations despite little demographic change .
+Predicted: O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O Habitat_B O O O O O O
+
+Two cases of HIV - infected patients presenting with isolated perianal ulcer disease are reported here .
+Predicted: O O O Habitat_B Habitat_I Habitat_I Habitat_I O O O O O O O O O O
+Correct:  O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I O O O O
+
+Both cases were confirmed to have rectal Chlamydia trachomatis - specific DNA of an LGV associated serovar .
+Predicted: O O O O O O O Bacteria_B Bacteria_I O O O O O O O O O
+Correct:  O O O O O O Habitat_B Bacteria_B Bacteria_I O O O O O O O O O
+
+As presentations of LGV diversify , further education and surveillance are needed in order to reduce transmission and prevent long - term complications .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O
+
+A strong argument already exists for the incorporation of chlamydia nucleic acid amplification tests in the management of MSM with proctitis ; this paper provides evidence that this should be extended to MSM with perianal ulcer disease .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O Bacteria_B O O O O O O O O Habitat_B Habitat_I Habitat_I O O O O O O O O O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O
+
+Recurrence of Helicobacter pylori infection 1 year after successful treatment : prospective cohort study in the Republic of Yemen .
+Predicted: O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O O
+Correct:  O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O O
+
+To investigate the prevalence of Helicobacter pylori infection in dyspeptic patients in the Republic of Yemen and the recurrence rate 1 year after apparently successful eradication .
+Predicted: O O O O O Bacteria_B Bacteria_I O O Habitat_B Habitat_I O O O O O O O O O O O O O O O O
+Correct:  O O O O O Bacteria_B Bacteria_I O O Habitat_B Habitat_I O O O O O O O O O O O O O O O O
+
+A total of 275 patients with chronic dyspepsia seen in one clinic were enrolled .
+Predicted: O O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I O O O
+Correct:  O O O O Habitat_B Habitat_I Habitat_I Habitat_I O O O Habitat_B O O O
+
+Gastric biopsies were obtained at endoscopy and H . pylori infection was diagnosed using the rapid urease test .
+Predicted: Habitat_B Habitat_I O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O
+Correct:  Habitat_B Habitat_I O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O
+
+Patients with H . pylori infection were given either clarithromycin or metronidazole - based triple therapy .
+Predicted: Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O O O O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O
+Correct:  Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I O O O O O O O O O O O
+
+Six weeks later H . pylori status was assessed using the C - urea breath test ( C - UBT ) .
+Predicted: O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O
+Correct:  O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O
+
+Those who were negative for H . pylori had a further C - UBT after 1 year to establish the recurrence rate .
+Predicted: O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O
+Correct:  O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O
+
+The prevalence of H . pylori infection at entry to the study was 82 . 2 % [ 95 % confidence interval ( CI ) 78 - 87 % ] .
+Predicted: O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O O O O O O O O O O
+
+The overall eradication rate 6 weeks after treatment was 49 . 1 % ( 95 % CI 42 . 6 - 55 . 6 % ) by intention - to - treat analysis , and 60 % ( 95 % CI 53 - 67 % ) by per - protocol analysis .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+Recurrence rate of H . pylori infection at 1 year was 34 % ( 95 % CI 14 - 45 % ) and the only predictor of recurrence was an excess delta C - UBT value less than 3 . 5 per million but equal to or greater than 2 . 5 per million at 6 weeks after treatment ( odds ratio 2 . 28 ; 95 % CI 1 . 17 - 4 . 44 ; P = 0 . 028 ) .
+Predicted: O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+The prevalence of H . pylori infection in dyspeptic patients in Yemen is very high , the eradication rate with standard triple therapy was unsatisfactory probably because of widespread bacterial resistance due to unrestricted antibiotic use .
+Predicted: O O O Bacteria_B Bacteria_I Bacteria_I O O Habitat_B Habitat_I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O Bacteria_B Bacteria_I Bacteria_I O O Habitat_B Habitat_I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+The recurrence rate of infection at 1 year was high , as a result of recrudescence of incompletely eradicated organisms rather than reinfection .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O
+
+Effects of a probiotic fermented milk beverage containing Lactobacillus casei strain Shirota on defecation frequency , intestinal microbiota , and the intestinal environment of healthy individuals with soft stools .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O
+Correct:  O O O Habitat_B Habitat_I Habitat_I Habitat_I O Bacteria_B Bacteria_I Bacteria_I Bacteria_I O O O O Habitat_B Habitat_I O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I O
+
+The effects of drinking a fermented milk beverage that contains Lactobacillus casei strain Shirota ( LcS ) at 40 billion bacterial cells / bottle for 4 weeks ( probiotics , 1 bottle / day ) on defecation frequency , intestinal microbiota and the intestinal environment of healthy individuals with soft stools were evaluated .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O Habitat_B Habitat_I O O O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O O O
+Correct:  O O O O O Habitat_B Habitat_I Habitat_I O O Bacteria_B Bacteria_I Bacteria_I Bacteria_I O Bacteria_B O O O O O O O Habitat_B O O O O Habitat_B O O Habitat_B O O O O O O O Habitat_B O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I O O O
+
+Thirty - four healthy adults who had soft stools were randomised into 2 groups , and the effects of a regular 4 - week intake of probiotics were evaluated by a placebo - controlled , double - blind , parallel - group comparative design .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O Habitat_B Habitat_I O O Habitat_B Habitat_I O O O O O O O O O O O O O O O O O Habitat_B O O O O O O O O O O O O O O O O O O
+
+Defecation frequency significantly decreased after the 4 - week intake period compared with before the probiotic treatment .
+Predicted: O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O Habitat_B O O
+
+The stool quality significantly improved ( hardened ) compared to the placebo .
+Predicted: O O O O O O O O O O O O O
+Correct:  O Habitat_B O O O O O O O O O O O
+
+Also , the water content of the stools was lower in the probiotic group than in the placebo group .
+Predicted: O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O O O O Habitat_B Habitat_I O O O Habitat_B Habitat_I O
+
+Live LcS was recovered at 6 . 9 ± 1 . 3 and 7 . 2 ± 0 . 8 log ( 10 ) CFU per 1g of stool after 2 and 4 weeks , respectively , of probiotic treatment .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O Bacteria_B O O O O O O O O O O O O O O O O O O O O O O O O O O Habitat_B O O O O O O O O O Habitat_B O O
+
+The number of bifidobacteria in the stools also increased significantly compared with the level before starting the probiotics .
+Predicted: O O O O O O O O O O O O O O O O O O O
+Correct:  O O O Bacteria_B O O Habitat_B O O O O O O O O O O Habitat_B O
+
+The organic acid levels ( total , acetic acid , propionic acid , and butyric acid ) significantly increased compared with the level before intake in both the probiotic and placebo groups , but they returned to the original levels after the end of the intake period .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O Habitat_B O Habitat_B Habitat_I O O O O O O O O O O O O O O O O
+
+These results suggest that probiotic fermented milk beverage has an intestine - conditioning effect by improving the frequency of defecation and stool quality and increasing the intrinsic bifidobacteria in healthy individuals with soft stool .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O
+Correct:  O O O O Habitat_B Habitat_I Habitat_I Habitat_I O O Habitat_B O O O O O O O O O O Habitat_B O O O O O Bacteria_B O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O
+
+Iron transport in the genus Marinobacter .
+Predicted: O O O O O Bacteria_B O
+Correct:  O O O O O Bacteria_B O
+
+Marinobacter belong to the class of Gammaproteobacteria and these motile , halophilic or halotolerent bacteria are widely distributed throughout the world ' s oceans having been isolated from a wide variety of marine environments .
+Predicted: Bacteria_B O O O O O Bacteria_B O O O O O O O O O O O O O O O O O O O O O O O O O Habitat_B O O
+Correct:  Bacteria_B O O O O O Bacteria_B O O O O O O O O O O O O O Habitat_B Habitat_I Habitat_I Habitat_I O O O O O O O O Habitat_B Habitat_I O
+
+They have also been identified as members of the bacterial flora associated with other marine organisms .
+Predicted: O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O Habitat_B Habitat_I O O O Habitat_B Habitat_I O
+
+Here , using a combination of natural products chemistry and genomic analysis , we assess the nature of the siderophores produced by this genus and their potential relationship to phylogeny and lifestyle / ecological niche of this diverse group of organisms .
+Predicted: O O O O O O Habitat_B Habitat_I Habitat_I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+Our analysis shows a wide level of diversity in siderophore based iron uptake systems among this genus with three general strategies : ( 1 ) production and utilization of native siderophores in addition to utilization of a variety of exogenous ones , ( 2 ) production and utilization of native siderophores only , ( 3 ) lack of siderophore production but utilization of exogenous ones .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+They all share the presence of at least one siderophore - independent iron uptake ABC transport systems of the FbpABC iron metal type and lack the ability for direct transport of ferrous iron .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+Siderophore production and utilization can be correlated with phylogeny and thus it forms a type of chemotaxonomic marker for this genus .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O
+
+Long - term Helicobacter pylori infection and the development of atrophic gastritis and gastric cancer in Japan .
+Predicted: O O O Bacteria_B Bacteria_I O O O O O O O O Habitat_B O O O O
+Correct:  O O O Bacteria_B Bacteria_I O O O O O O O O Habitat_B O O O O
+
+The incidence of gastric cancer and the prevalence of Helicobacter pylori are high in Japan , so it is an important issue whether long - term H . pylori infection leads to chronic atrophic gastritis , considered one of the precursors of gastric cancer .
+Predicted: O O O Habitat_B Habitat_I O O O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O Habitat_B Habitat_I O
+Correct:  O O O Habitat_B O O O O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O Habitat_B O O
+
+We have reported that the grade of atrophy was higher in H . pylori - positive subjects than in H . pylori - negative subjects .
+Predicted: O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O
+Correct:  O O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O
+
+It has also been reported that the atrophy of gastric mucosa increased in H . pylori - infected monkeys compared with control monkeys in a 5 - year follow - up study .
+Predicted: O O O O O O O O O Habitat_B Habitat_I O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O Habitat_B O O O Bacteria_B Bacteria_I Bacteria_I O O O O O Habitat_B Habitat_I O O O O O O O O O O
+
+Most H . pylori infections occur in children , and atrophy of the gastric mucosa progresses during aging .
+Predicted: O Bacteria_B Bacteria_I Bacteria_I O O O Habitat_B O O O O O Habitat_B O O O O O
+Correct:  O Bacteria_B Bacteria_I Bacteria_I O O O Habitat_B O O O O O Habitat_B Habitat_I O O O O
+
+Long - term data show that H . pylori infection can lead to gastric atrophy and may play an important role in the development of gastric cancer .
+Predicted: O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O Habitat_B O O O O O O O O O O O Habitat_B Habitat_I O
+Correct:  O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O Habitat_B O O O O O O O O O O O Habitat_B O O
+
+Interestingly , there was no difference in the prevalence of H . pylori between patients with chronic gastritis and gastric cancer in Japan , but the prevalence of H . pylori in young Japanese gastric cancer patients was significantly higher than in the control group .
+Predicted: O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O Habitat_B Habitat_I Habitat_I Habitat_I O Habitat_B O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O Habitat_B Habitat_I Habitat_I O O O O O O O O O
+Correct:  O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O Habitat_B Habitat_I Habitat_I Habitat_I O Habitat_B O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O O O O O O O O O
+
+These data clearly show that H . pylori infection is one of the risk factors of gastric cancer in young Japanese people , There is no answer to whether curing H . pylori infection can reverse the atrophy of the gastric mucosa and decrease the risk of gastric cancer development .
+Predicted: O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O Habitat_B Habitat_I O O O O O Habitat_B Habitat_I Habitat_I O
+Correct:  O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O Habitat_B O O Habitat_B Habitat_I Habitat_I O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O Habitat_B O O O O O O Habitat_B O O O
+
+To clarify this issue , an intervention study must be done .
+Predicted: O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O
+
+A large clinical trial called the Japanese Intervention Trial of H . pylori is in progress .
+Predicted: O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O
+Correct:  O O O O O O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O
+
+Atypical mycobacteria causing non - pulmonary disease in Queensland .
+Predicted: O Bacteria_B O O O O O O O O
+Correct:  O Bacteria_B O O O Habitat_B O O O O
+
+During the period 1971 - - 7 , the Tuberculosis Reference Laboratory in Queensland dealt with 52 isolates of atypical mycobacteria made from non - pulmonary sites under circumstances suggesting complicity in disease .
+Predicted: O O O O O O O O O O O O O O O O O O O O Bacteria_B O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O Bacteria_B O O O O Habitat_B O O O O O O O O
+
+Twenty - four isolates belonging to the MAIS complex were associated with lymph node infections in children .
+Predicted: O O O O O O O O O O O O O O O O Habitat_B O
+Correct:  O O O O O O O O O O O O Habitat_B Habitat_I O O Habitat_B O
+
+Twelve isolates belonged to the M . fortuitum - chelonei complex ; most were from superficial abscesses .
+Predicted: O O O O O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O
+Correct:  O O O O O Bacteria_B Bacteria_I Bacteria_I Bacteria_I Bacteria_I Bacteria_I O O O O Habitat_B Habitat_I O
+
+Five cases of M . marinum infection and 8 of M . ulcerans disease were detected .
+Predicted: O O O Bacteria_B Bacteria_I Bacteria_I O O O O Bacteria_B Bacteria_I Bacteria_I O O O O
+Correct:  O O O Bacteria_B Bacteria_I Bacteria_I O O O O Bacteria_B Bacteria_I Bacteria_I O O O O
+
+Serotypes of Vibrio parahaemolyticus from clinical and environmental sources in Togo ( West Africa ) .
+Predicted: O O Bacteria_B Bacteria_I O O O O O O O O O O O O
+Correct:  O O Bacteria_B Bacteria_I O Habitat_B O O O O O O O O O O
+
+Serological analysis of O and K antigens was performed on 343 strains of Vibro parahaemolyticus isolated from clinical and environmental sources in Togo .
+Predicted: O O O O O O O O O O O O O Bacteria_B Bacteria_I O O O O O O O O O
+Correct:  O O O O O O O O O O O O O Bacteria_B Bacteria_I O O Habitat_B O O O O O O
+
+Only two strains were not typable by the available O antisera .
+Predicted: O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O
+
+K untypable strains were found in 4 . 8 % of isolates from gastroenteritis patients , in 11 % from healthy carriers , and in 47 % and 46 % of isolates , respectively , from water and fish samples .
+Predicted: O O O O O O O O O O O O O Habitat_B Habitat_I O O O O O O O O O O O O O O O O O O O O O O O Habitat_B Habitat_I O
+Correct:  O O O O O O O O O O O O O Habitat_B Habitat_I O O O O O Habitat_B Habitat_I O O O O O O O O O O O O O O Habitat_B O Habitat_B Habitat_I O
+
+Thirteen serotypes identified in Togo are not considered in the Japanese antigenic scheme .
+Predicted: O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O
+
+The suitability of the Japanese typing scheme for geographic areas outside of Japan is discussed and its extension is suggested .
+Predicted: O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O
+
+Clonal strains of Pseudomonas aeruginosa in paediatric and adult cystic fibrosis units .
+Predicted: O O O Bacteria_B Bacteria_I O Habitat_B O O O O O O
+Correct:  O O O Bacteria_B Bacteria_I O Habitat_B O Habitat_B O O O O
+
+Despite recent reports of clonal strains of Pseudomonas aeruginosa in cystic fibrosis ( CF ) units , the need for routine microbiological surveillance remains contentious .
+Predicted: O O O O O O O Bacteria_B Bacteria_I O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O Bacteria_B Bacteria_I O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I Habitat_I O O O O O O O O O O
+
+Sputum was collected prospectively from productive patients attending the regional paediatric and adult CF units in Brisbane , Australia .
+Predicted: O O O O O O Habitat_B O O O O O O O O O O O O O
+Correct:  Habitat_B O O O O Habitat_B Habitat_I O O O Habitat_B O Habitat_B O O O O O O O
+
+All P . aeruginosa isolates were typed using pulsed - field gel electrophoresis .
+Predicted: O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O
+Correct:  O Bacteria_B Bacteria_I Bacteria_I O O O O O O O O O O
+
+Spirometry , anthropometrics , hospitalisations and antibiotic sensitivity data were recorded .
+Predicted: O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O
+
+The first 100 sputum samples ( first 50 patients at each clinic ) harboured 163 isolates of P . aeruginosa .
+Predicted: O O O O O O O O Habitat_B Habitat_I Habitat_I Habitat_I Habitat_I O O O O Bacteria_B Bacteria_I Bacteria_I O
+Correct:  O O O Habitat_B O O O O Habitat_B O O Habitat_B O O O O O Bacteria_B Bacteria_I Bacteria_I O
+
+A total of 39 patients shared a common strain ( pulsotype 2 ) , 20 patients shared a strain with at least one other patient and 41 patients harboured unique strains .
+Predicted: O O O O Habitat_B O O O O O O O O O O Habitat_B O O O O O O O O O O O Habitat_B O O O O
+Correct:  O O O O Habitat_B O O O O O O O O O O Habitat_B O O O O O O O O Habitat_B O O Habitat_B O O O O
+
+Eight patients shared a strain identical to a previously reported Australian transmissible strain ( pulsotype 1 ) .
+Predicted: Habitat_B Habitat_I O O O O O O O O O O O O O O O O
+Correct:  O Habitat_B O O O O O O O O O O O O O O O O
+
+Compared with the unique strain group , patients harbouring pulsotype 2 were younger and had poorer lung function .
+Predicted: O O O O O O O Habitat_B O O O O O O O O O O O
+Correct:  O O O O O O O Habitat_B O O O O O O O O Habitat_B O O
+
+Treatment requirements were similar in these two groups , as were the rates of multiresistance .
+Predicted: O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O
+
+In conclusion , 59 % of patients harboured a clonal strain , supporting the need for routine microbiological surveillance .
+Predicted: O O O O O O Habitat_B O O O O O O O O O O O O O
+Correct:  O O O O O O Habitat_B O O O O O O O O O O O O O
+
+In contrast to previously described clonal strains , the dominant pulsotype was indistinguishable from nonclonal strains with respect to both colonial morphology and multiresistance .
+Predicted: O O O O O O O O O O O O O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O O O O O O O O O O O O O
+
+The clinical significance of clonal strains remains uncertain and requires longitudinal study .
+Predicted: O O O O O O O O O O O O O
+Correct:  O O O O O O O O O O O O O
+
+Evaluation of antibacterial activity of synthetic aliphatic and aromatic monoacylglycerols .
+Predicted: O O O O O O O O O O O
+Correct:  O O O O O O O O O O O
+
+The antibacterial activity of synthetic aliphatic and aromatic monoacylglycerols ( MAGs ) was studied against two human pathogens : Staphylococcus aureus and Escherichia coli .
+Predicted: O O O O O O O O O O O O O O O O Habitat_B O O Bacteria_B Bacteria_I O Bacteria_B Bacteria_I O
+Correct:  O O O O O O O O O O O O O O O O Habitat_B O O Bacteria_B Bacteria_I O Bacteria_B Bacteria_I O
+
+The active compounds inhibited selectively S . aureus .
+Predicted: O O O O O Bacteria_B Bacteria_I Bacteria_I O
+Correct:  O O O O O Bacteria_B Bacteria_I Bacteria_I O
+
